@@ -1,6 +1,8 @@
 # arpg
 
 An attempt at making a small rpg on android.
+its status is techdemo, abandonned.
+
 features so far: 
 - free exploration
 - automap
