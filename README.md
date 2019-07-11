@@ -1,7 +1,7 @@
 # arpg
 
 An attempt at making a small rpg on android.   
-its status is techdemo, abandonned.   
+its status is techdemo, abandoned.   
 
 features so far: 
 - free exploration
